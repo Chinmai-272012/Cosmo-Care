@@ -1,11 +1,6 @@
 {
-  "functions": {
-    "api/chat.js": {
-      "maxDuration": 30
-    }
-  },
   "headers": [
-    {
+  
       "source": "/(.*)",
       "headers": [
         {
